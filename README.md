@@ -4,20 +4,20 @@
 </head>
 <body>
 <ol>
-Points Learned in today workshop 
-1.Firstly Angular is a javascript (web) Frame work
-2.It is used to develop single paged application 
-3.The single page application are the which don't need to refresh all the time 
-4. And in Angular everything is a module 
-5. The things under the Module are 
-6.Config
-7.Filter 
-8.Directive
-9.Factory
-10.Service
-11.Provider
-12.Value
-13.Controller
+Points Learned in today workshop <br>
+1.Firstly Angular is a javascript (web) Frame work<br>
+2.It is used to develop single paged application <br>
+3.The single page application are the which don't need to refresh all the time<br> 
+4. And in Angular everything is a module <br>
+5. The things under the Module are <br>
+6.Config <br>
+7.Filter <br>
+8.Directive <br>
+9.Factory <br>
+10.Service <br>
+11.Provider <br>
+12.Value<br>
+13.Controller<br>
 </ol>
 <p>
 In the hand on with the Angular everything went good for me.
