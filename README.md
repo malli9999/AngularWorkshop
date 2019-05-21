@@ -1,5 +1,7 @@
 <html>
+<head>
 <h1># AngularWorkshop</h1>
+</head>
 <body>
 <ol>
 Points Learned in today workshop 
@@ -22,7 +24,7 @@ In the hand on with the Angular everything went good for me.
 
 
 Coding part in Workshop
-<!--->
+<!---
 <html>
     <head>
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/angular.min.js">
