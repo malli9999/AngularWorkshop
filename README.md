@@ -18,7 +18,7 @@ In the hand on with the Angular everything went good for me.
 
 
 Coding part in Workshop
-/*
+<!--->
 <html>
     <head>
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/angular.min.js">
@@ -37,14 +37,14 @@ Coding part in Workshop
 <input type= "text"> 
     </body>
 </html>
-*/
-/*
+
+
 angular.module("myapp",[])
 .controller("myfirstcontroller", ['$scope', function ($scope){
 console.log("this is form controller")
 $scope.hello= "Hello World";
 }]);
-*/
 
+-->
 Finally it a good workshop and i learned something about Angular
 Thanks to ACM.
