@@ -4,7 +4,7 @@
 </head>
 <body>
 <ol>
-Points Learned in today workshop <br>
+<h2>Points Learned in today workshop </h2><br>
 1.Firstly Angular is a javascript (web) Frame work<br>
 2.It is used to develop single paged application <br>
 3.The single page application are the which don't need to refresh all the time<br> 
@@ -24,6 +24,7 @@ In the hand on with the Angular everything went good for me.
 
 
 Coding part in Workshop
+I commented the coding part but it was in Readme file
 <!---
 <html>
     <head>
@@ -52,8 +53,8 @@ $scope.hello= "Hello World";
 }]);
 
 -->
-Finally it a good workshop and i learned something about Angular
-Thanks to ACM.
+Finally it a good workshop and i learned something about Angular<br>
+<h3>Thanks to ACM.</h3>
 </p>
 </body>
 </html>
