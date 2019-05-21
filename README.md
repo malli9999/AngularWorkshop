@@ -23,8 +23,8 @@
 In the hand on with the Angular everything went good for me.
 
 
-Coding part in Workshop
-I commented the coding part but it was in Readme file
+Coding part in Workshop <br>
+I commented the coding part but it was in my Readme file
 <!---
 <html>
     <head>
@@ -54,6 +54,8 @@ $scope.hello= "Hello World";
 
 -->
 Finally it a good workshop and i learned something about Angular<br>
+Dependency Injection: where we can use some other application in our application by injecting it into our apllication<br>
+Single-Page-Apllication: we can develop the single page application using Angular where the application don't need to refresh all the time.
 <h3>Thanks to ACM.</h3>
 </p>
 </body>
