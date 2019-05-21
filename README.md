@@ -1,7 +1,7 @@
 <html>
 <h1># AngularWorkshop</h1>
 <body>
-
+<ol>
 Points Learned in today workshop 
 1.Firstly Angular is a javascript (web) Frame work
 2.It is used to develop single paged application 
@@ -16,7 +16,8 @@ Points Learned in today workshop
 11.Provider
 12.Value
 13.Controller
-
+</ol>
+<p>
 In the hand on with the Angular everything went good for me.
 
 
@@ -51,5 +52,6 @@ $scope.hello= "Hello World";
 -->
 Finally it a good workshop and i learned something about Angular
 Thanks to ACM.
+</p>
 </body>
 </html>
